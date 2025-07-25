@@ -1,23 +1,15 @@
-# netflix-data-analytics
-# 📊 Netflix Viewing Insights — Data Analysis Project
+# 📊 Netflix Data Analytics — Python Project
 
-This project analyzes a Netflix dataset to uncover patterns and insights about content trends, genres, countries, and ratings. Built using Python, pandas, matplotlib, and seaborn.
-
-## 🔍 Objective
-
-- Understand the distribution of Movies vs TV Shows on Netflix
-- Analyze the most popular genres
-- Identify trends in content release over the years
-- Discover top-producing countries
-- Visualize rating breakdowns and more
+A beginner-friendly data analysis project using Python and pandas to explore Netflix content trends, popular genres, country distributions, and rating breakdowns.
 
 ## 📁 Dataset
 
-The dataset was sourced from [Kaggle - Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+- Source: [Netflix Movies and TV Shows - Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+- Format: CSV
+- Records: 8807+
+- Columns: Title, Type, Country, Genre, Date Added, Duration, Rating, etc.
 
-- `netflix_titles.csv`: Contains metadata for all Netflix content available until 2021.
-
-## 📌 Tools Used
+## 🧰 Tools & Technologies
 
 - Python
 - pandas
@@ -25,33 +17,32 @@ The dataset was sourced from [Kaggle - Netflix Movies and TV Shows](https://www.
 - seaborn
 - Jupyter Notebook
 
-## 📈 Key Visualizations
+## 📈 Visualizations
 
-- Bar chart: Movie vs TV Show count
-- Bar chart: Top 10 genres
-- Line graph: Content release trend by year
-- Bar chart: Top countries by number of titles
-- Pie chart: Rating distribution
+- 📺 Movies vs TV Shows
+- 🎭 Top Genres
+- 🕒 Content Trend Over Years
+- 🌍 Country-wise Distribution
+- 🔞 Age Rating Breakdown
 
-## ✅ Insights
+## ✅ Key Insights
 
-- Majority of Netflix content is **Movies**
-- **Dramas** and **Comedies** are the most dominant genres
-- Content production peaked around **2018–2019**
-- The **United States** has the highest content on Netflix
-- **TV-MA** is the most common rating
+- Netflix has more **Movies** than TV Shows
+- **Drama**, **Comedies**, and **International Movies** are top genres
+- Content production peaked in **2018–2019**
+- The **USA** leads content production
+- Most titles are rated **TV-MA**
 
-## 👩‍💻 About Me
+## 💡 What I Learned
 
-**Katakam Navya Sri**  
-Final-year B.E. student in Artificial Intelligence & Data Science  
-[LinkedIn](https://www.linkedin.com/in/katakam-navya-sri-68098624a)
+- Data cleaning with pandas
+- Data visualization with matplotlib & seaborn
+- Drawing actionable insights from real-world data
 
-## 📂 Project Files
+## 📌 Project Notebook
 
-- `netflix data analytics.ipynb`: Main notebook with all code and visualizations
-- `netflix_titles.csv`: Dataset
-- `README.md`: This documentation
+- [`Netflix_Data_Analysis_Navya.ipynb`](Netflix_Data_Analysis_Navya.ipynb)
 
 ---
 
+👩‍💻 Created  by [Katakam Navya Sri](https://www.linkedin.com/in/katakam-navya-sri-68098624a)
