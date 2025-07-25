@@ -49,7 +49,7 @@ Final-year B.E. student in Artificial Intelligence & Data Science
 
 ## 📂 Project Files
 
-- `Netflix_Data_Analysis_Navya.ipynb`: Main notebook with all code and visualizations
+- `netflix data analytics.ipynb`: Main notebook with all code and visualizations
 - `netflix_titles.csv`: Dataset
 - `README.md`: This documentation
 
